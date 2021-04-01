@@ -1,4 +1,3 @@
-object.style.backgroundImage="url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fad90e04-d87b-4668-92f8-9331a94ac86b/d6nzkxb-3a27c7cd-f3a2-42ac-9320-8fcf8d8d26e9.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZmFkOTBlMDQtZDg3Yi00NjY4LTkyZjgtOTMzMWE5NGFjODZiXC9kNm56a3hiLTNhMjdjN2NkLWYzYTItNDJhYy05MzIwLThmY2Y4ZDhkMjZlOS5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.VuPl7d2SSOhEwPnBJSmcWiWX2Ni1UHBMbdUXuOOoEBs)";
 const button = document.getElementById("button");
 const input = document.getElementById("input");
 const answer = document.getElementById("answer");
